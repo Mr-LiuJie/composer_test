@@ -1,0 +1,21 @@
+{
+    "name": "number/number-format",
+    "description": "一个处理数字的包",
+    "authors": [
+        {
+            "name": "LiuJie",
+            "email": "liu114620jie@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "composer_test\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
